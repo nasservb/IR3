@@ -1,4 +1,3 @@
-
 'Option Explicit
 Private Declare Function GetSystemDirectory Lib "kernel32" Alias _
                         "GetSystemDirectoryA" (ByVal lpBuffer As String, _
