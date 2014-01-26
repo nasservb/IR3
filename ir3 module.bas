@@ -1,4 +1,3 @@
-
 '------Typing New data For Seearch File---------------------
 Public Type BrowseInfo
     hWndOwner       As Long
