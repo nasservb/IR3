@@ -1,0 +1,8 @@
+Line 92: Class Slider.cpvSlider of control HScroll1 was not a loaded control class.
+Line 97: The property name _ExtentX in HScroll1 is invalid.
+Line 98: The property name _ExtentY in HScroll1 is invalid.
+Line 100: The property name SliderIcon in HScroll1 is invalid.
+Line 101: The property name Orientation in HScroll1 is invalid.
+Line 102: The property name RailPicture in HScroll1 is invalid.
+Line 103: The property name RailStyle in HScroll1 is invalid.
+Line 104: The property name Max in HScroll1 is invalid.
